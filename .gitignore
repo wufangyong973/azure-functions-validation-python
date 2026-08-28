@@ -18,11 +18,11 @@ htmlcov/
 
 # Build artifacts
 build/
+temp_auto_push.bat
 dist/
 *.egg-info/
 
 # IDE
-.vscode/
 .idea/
 
 # Docs
@@ -39,3 +39,5 @@ examples/e2e_app/.python_packages/
 .omc/
 .claude/
 *.agent-session.json
+.gitignore
+branch_structure.json
